@@ -10,6 +10,7 @@ A C compiler. gcc task.c
 
 # How to run
 After compiling, run the output file ./a.out and you should be met with an interface.
+The interface explains the command the user can type - The user is responsible for the correct input 
 
 # Examining exit code
 The shell is configured in a way that it prints out the status after each executed run, printing out "Ended normally with status code 0" if normal behaviour, and printing "Ended abruptally" if the program was killed
