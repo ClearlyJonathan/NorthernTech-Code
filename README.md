@@ -18,7 +18,9 @@ The shell is configured in a way that it prints out the status after each execut
 
 # Example output
 <img width="1590" height="813" alt="image" src="https://github.com/user-attachments/assets/2491b747-e764-4434-9535-cd359ab316ba" />
+
 # Example with executable (WINDOWS)
 <img width="1349" height="289" alt="image" src="https://github.com/user-attachments/assets/1bf7d979-85ea-4798-97cc-13e74974bb39" />
+
 # Example on failed attempt
 <img width="1519" height="750" alt="image" src="https://github.com/user-attachments/assets/a699c1d4-51b0-4a42-9580-7cd3b0f428af" />
